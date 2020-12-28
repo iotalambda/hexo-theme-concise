@@ -28,8 +28,7 @@ links:
   - svg: ./source/svg/_twitter.svg
     url: https://twitter.com/sanonze
 
-
-# github comment 
+# github comment
 git_commit:
   enable: true
   client_id: 7fbe80427f54741e289f
@@ -39,7 +38,6 @@ git_commit:
   admin:
     - sanonz
   per_page: 10
-
 
 # 百度统计
 baidu:
